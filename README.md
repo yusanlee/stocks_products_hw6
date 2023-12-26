@@ -1,0 +1,1 @@
+# stocks_products_hw6
